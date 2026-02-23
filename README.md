@@ -5,3 +5,7 @@ I attended this lecture on Monday February 23rd, 2026 https://openlearninglibrar
 
 I solved this problem set: 
 https://drive.google.com/file/d/1NDSY6_v6QtGxmmmCtIqDHLCloG9E0v2T/view?usp=sharing
+
+I solved this problem set 10:05am monday February 23rd, 2026:
+https://drive.google.com/file/d/1EpX8rwJ5DCrVbgfMVSI5GNtPn_zPul25/view?usp=sharing
+
