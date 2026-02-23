@@ -15,3 +15,8 @@ https://drive.google.com/file/d/1z-eyra7gnlofqfIYrRWnh3OU3hbIgFAp/view?usp=shari
 I watched this lecture by the homie Shor:
 https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/Week1/lectures_u1_1/
 
+Physical and conceptual models of classical computation lecture at 10:45AM Monday February 23rd,2026:
+https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/Week1/lectures_u1_2/?child=first
+
+
+
