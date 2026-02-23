@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1NDSY6_v6QtGxmmmCtIqDHLCloG9E0v2T/view?usp=shari
 I solved this problem set 10:05am monday February 23rd, 2026:
 https://drive.google.com/file/d/1EpX8rwJ5DCrVbgfMVSI5GNtPn_zPul25/view?usp=sharing
 
+Matrix operation exercise at 10:23am Monday February 23rd, 2026:
+https://drive.google.com/file/d/1z-eyra7gnlofqfIYrRWnh3OU3hbIgFAp/view?usp=sharing
+
