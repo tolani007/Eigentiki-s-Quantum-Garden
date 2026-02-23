@@ -12,3 +12,6 @@ https://drive.google.com/file/d/1EpX8rwJ5DCrVbgfMVSI5GNtPn_zPul25/view?usp=shari
 Matrix operation exercise at 10:23am Monday February 23rd, 2026:
 https://drive.google.com/file/d/1z-eyra7gnlofqfIYrRWnh3OU3hbIgFAp/view?usp=sharing
 
+I watched this lecture by the homie Shor:
+https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/Week1/lectures_u1_1/
+
