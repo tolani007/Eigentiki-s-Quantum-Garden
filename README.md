@@ -41,3 +41,7 @@ Tuesday February 24th,2026:
 I repped qubits on a BLoch's sphere for fun at the Chattime bubble tea store because I was bored:
 https://drive.google.com/file/d/17nX1AFvfXybQujrjjGWWuHzdSYSi0SI7/view?usp=sharing
 
+
+I factored out phases in this problem set:
+https://drive.google.com/file/d/1n-hTOWaQQpIaZumdEuiZjhzZ816Goz7j/view?usp=sharing
+
