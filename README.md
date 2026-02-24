@@ -37,3 +37,7 @@ https://drive.google.com/file/d/1GKJvcnoeWvvNkZb8C_-akbFK7h1_ZkHI/view?usp=shari
 I solved these Dirac notation problems for fun:
 https://drive.google.com/file/d/115UdNgjfplj11LGWNCJ-l9Y2nleomDtl/view?usp=drive_link
 
+Tuesday February 24th,2026:
+I repped qubits on a BLoch's sphere for fun at the Chattime bubble tea store because I was bored:
+https://drive.google.com/file/d/17nX1AFvfXybQujrjjGWWuHzdSYSi0SI7/view?usp=sharing
+
