@@ -25,5 +25,6 @@ https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/cours
 Unitary and Hertian matrices problem set I solved at 9:19pm Monday February 23rd, 2026: 
 https://drive.google.com/file/d/1QKT9IZurYmK8eU1IWK-MO-qbYPYcGRZ9/view?usp=sharing
 
-
+My favourite matrix problems to solve EVER eigen vectors and finding eigen values:
+https://drive.google.com/file/d/1cRTgWXdOdH_5zWntJ1FRyhBkiCdhYoc_/view?usp=sharing
 
