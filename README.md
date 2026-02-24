@@ -34,3 +34,6 @@ https://drive.google.com/file/d/1n5YqGE5GfbLLitysBov5reso7uB0xQG4/view?usp=shari
 Qubits and Superposition problem set solved at 10:38pm Monday February 23rd, 2026 :
 https://drive.google.com/file/d/1GKJvcnoeWvvNkZb8C_-akbFK7h1_ZkHI/view?usp=sharing
 
+I solved these Dirac notation problems for fun:
+https://drive.google.com/file/d/115UdNgjfplj11LGWNCJ-l9Y2nleomDtl/view?usp=drive_link
+
