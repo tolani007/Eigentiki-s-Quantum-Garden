@@ -31,3 +31,6 @@ https://drive.google.com/file/d/1cRTgWXdOdH_5zWntJ1FRyhBkiCdhYoc_/view?usp=shari
 Manipulating a Qubit with Single Qubit Gates at 10:22pm Monday February 23rd, 2026:
 https://drive.google.com/file/d/1n5YqGE5GfbLLitysBov5reso7uB0xQG4/view?usp=sharing
 
+Qubits and Superposition problem set solved at 10:38pm Monday February 23rd, 2026 :
+https://drive.google.com/file/d/1GKJvcnoeWvvNkZb8C_-akbFK7h1_ZkHI/view?usp=sharing
+
