@@ -22,5 +22,8 @@ https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/cours
 A brief introduction to computational complexity:
 https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.370.1x+1T2018/courseware/Week1/lectures_u1_2/?child=first
 
+Unitary and Hertian matrices problem set I solved at 9:19pm Monday February 23rd, 2026: 
+https://drive.google.com/file/d/1QKT9IZurYmK8eU1IWK-MO-qbYPYcGRZ9/view?usp=sharing
+
 
 
