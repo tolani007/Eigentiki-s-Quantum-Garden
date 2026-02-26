@@ -45,3 +45,7 @@ https://drive.google.com/file/d/17nX1AFvfXybQujrjjGWWuHzdSYSi0SI7/view?usp=shari
 I factored out phases in this problem set:
 https://drive.google.com/file/d/1n-hTOWaQQpIaZumdEuiZjhzZ816Goz7j/view?usp=sharing
 
+
+Thursday February 26th 2026, I played around with Hadamard gate problems at the chattime bubble tea store for fun:
+https://drive.google.com/file/d/1WljPwwyRMFIXo4mDyBrir4lM_oJ_uFhZ/view?usp=sharing
+
