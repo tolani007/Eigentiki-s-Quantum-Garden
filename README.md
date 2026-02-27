@@ -52,3 +52,7 @@ https://drive.google.com/file/d/1WljPwwyRMFIXo4mDyBrir4lM_oJ_uFhZ/view?usp=shari
 
 Thursday February 26th 2026, I played around with phase gates like S and T gates then noticed that an S gate is just the square root of a Z gate and a T gate is just the square root of an S gate in this problem set. Also I noticed the S ant T gates rotate the qubit around the Z axis:
 https://drive.google.com/file/d/1NrACiU5IP7MOImGppQ2r_XChLqR_-xlv/view?usp=sharing
+
+
+Friday February 27th 9:33AM I solved this probability problem with only solution 1 to start my day I will probably no pun intended pree solution 2 sometime in the future:
+https://drive.google.com/file/d/1gQuqwxZfqTMBmXgQqGxLMP7c_7ItuPYP/view?usp=sharing
