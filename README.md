@@ -56,3 +56,6 @@ https://drive.google.com/file/d/1NrACiU5IP7MOImGppQ2r_XChLqR_-xlv/view?usp=shari
 
 Friday February 27th 9:33AM I solved this probability problem with only solution 1 to start my day I will probably no pun intended pree solution 2 sometime in the future:
 https://drive.google.com/file/d/1gQuqwxZfqTMBmXgQqGxLMP7c_7ItuPYP/view?usp=sharing
+
+Friday March 6th 10:13AM I reviewed this probability problem with only solution 2 and the python simulation and it was interesting to see as more trials were added the probability kept approaching one-third the true probability:
+https://drive.google.com/file/d/1gQuqwxZfqTMBmXgQqGxLMP7c_7ItuPYP/view
