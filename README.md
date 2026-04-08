@@ -59,3 +59,19 @@ https://drive.google.com/file/d/1gQuqwxZfqTMBmXgQqGxLMP7c_7ItuPYP/view?usp=shari
 
 Friday March 6th 10:13AM I reviewed this probability problem with only solution 2 and the python simulation and it was interesting to see as more trials were added the probability kept approaching one-third the true probability:
 https://drive.google.com/file/d/1gQuqwxZfqTMBmXgQqGxLMP7c_7ItuPYP/view
+
+Tuesday April 7th 2026:
+I wanted to build a search tool that could read Ontario government websites and answer questions, but I needed to do it without spending money on massive cloud servers. The biggest problem with AI is that it eats up way too much computer memory. Here is how I built it and solved the memory problem.
+
+First, I wrote a quick Python script to scrape the text directly from the Service Ontario website. I grabbed the pages for renewing a driver's license and a health card so I had real, accurate data to work with.
+
+Next, I used a free language model to turn all that text into long lists of numbers. In machine learning, this is called embedding. It basically translates English sentences into math. Sentences that mean similar things get assigned numbers that are close to each other. 
+
+Then came the hard part. Storing millions of complex decimal numbers takes up way too much RAM. I tried to compress the memory by converting the decimals into small whole numbers. But since the original decimals were tiny, the computer just rounded everything to zero. I accidentally wiped the brain completely blank and the search tool broke.
+
+To fix it, I used a trick called quantization. Before I squished the numbers into smaller data types, I multiplied all the decimals by 100. Doing this preserved the detail of the numbers while still letting me convert them into space-saving whole numbers. That one trick shrunk my memory footprint by four times without losing the actual information.
+
+Finally, I wrote a search function. When I type in a question, the code turns my question into numbers and checks which government document has the most mathematically similar numbers. Because I compressed the memory so efficiently, the whole thing runs instantly on a free Google Colab graphics card.
+
+Here is the Colab notebook:
+https://colab.research.google.com/drive/1kxcksV67FCjJQ2fQrRNQIXwnoqRth3J9#scrollTo=v8ebftA8FQgz
